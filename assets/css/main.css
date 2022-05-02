@@ -4056,6 +4056,7 @@ input, select, textarea {
 /* Landing */
 
 	body.landing #page-wrapper {
+		background-color: #1d242a;
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/camyllaBattaniWeb.webp");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),  url("../../images/camyllaBattaniWeb.webp");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),  url("../../images/camyllaBattaniWeb.webp");
@@ -4068,6 +4069,7 @@ input, select, textarea {
 	}
 
 	body.landing.ourGroomers #page-wrapper {
+		background-color: #1d242a;
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/towelDog3.jpg");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),  url("../../images/towelDog3.jpg");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),  url("../../images/towelDog3.jpg");
@@ -4076,6 +4078,7 @@ input, select, textarea {
 	}
 
 	body.landing.aboutUs #page-wrapper {
+		background-color: #1d242a;
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bg2.jpg");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),  url("../../images/bg2.jpg");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),  url("../../images/bg2.jpg");
@@ -4084,6 +4087,7 @@ input, select, textarea {
 	}
 
 	body.landing.contact #page-wrapper {
+		background-color: #1d242a;
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bg4.jpg");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),  url("../../images/bg4.jpg");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),  url("../../images/bg4.jpg");
@@ -4100,6 +4104,7 @@ input, select, textarea {
 
 	body.is-mobile.landing #banner,
 	body.is-mobile.landing .wrapper.style4 {
+		background-color: #1d242a;
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/camyllaBattaniWeb.webp");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),  url("../../images/camyllaBattaniWeb.webp");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),  url("../../images/camyllaBattaniWeb.webp");
@@ -4111,6 +4116,7 @@ input, select, textarea {
 
 	body.is-mobile.landing.aboutUs #banner,
 	body.is-mobile.landing.aboutUs .wrapper.style4 {
+		background-color: #1d242a;
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bg2.jpg");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),  url("../../images/bg2.jpg");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),  url("../../images/bg2.jpg");
@@ -4120,6 +4126,7 @@ input, select, textarea {
 	
 	body.is-mobile.landing.ourGroomers #banner,
 	body.is-mobile.landing.ourGroomers .wrapper.style4 {
+		background-color: #1d242a;
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/towelDog3.jpg");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),  url("../../images/towelDog3.jpg");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),  url("../../images/towelDog3.jpg");
@@ -4129,6 +4136,7 @@ input, select, textarea {
 
 	body.is-mobile.landing.contact #banner,
 	body.is-mobile.landing.contact .wrapper.style4 {
+		background-color: #1d242a;
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/bg4.jpg");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),  url("../../images/bg4.jpg");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),  url("../../images/bg4.jpg");
