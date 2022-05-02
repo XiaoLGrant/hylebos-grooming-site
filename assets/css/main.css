@@ -2146,7 +2146,7 @@ input, select, textarea {
 			}
 
 		.bio {
-			overflow: auto;
+			overflow: hidden;
 			word-wrap: break-word;
 		}
 
